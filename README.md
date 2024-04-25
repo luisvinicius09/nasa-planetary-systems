@@ -1,4 +1,8 @@
-# React + TypeScript + Vite
+# Nasa - Planetary Systems Queries
+
+> Reference: https://github.com/florinpop17/app-ideas/blob/master/Projects/3-Advanced/NASA-Exoplanet-Query.md
+
+---- 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
